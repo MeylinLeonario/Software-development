@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Semestre sabático\\Software development\\BasicMiniProjects\\Project1\\Project1.csproj",
-      "projectName": "Project1",
-      "projectPath": "D:\\Semestre sabático\\Software development\\BasicMiniProjects\\Project1\\Project1.csproj",
+      "projectUniqueName": "C:\\Proyectoooooooos\\semestre sabatico\\Software-development\\BasicMiniProjects\\Project_2\\Project_2.csproj",
+      "projectName": "Project_2",
+      "projectPath": "C:\\Proyectoooooooos\\semestre sabatico\\Software-development\\BasicMiniProjects\\Project_2\\Project_2.csproj",
       "packagesPath": "C:\\Users\\meyli\\.nuget\\packages\\",
-      "outputPath": "D:\\Semestre sabático\\Software development\\BasicMiniProjects\\Project1\\obj\\",
+      "outputPath": "C:\\Proyectoooooooos\\semestre sabatico\\Software-development\\BasicMiniProjects\\Project_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\meyli\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Semestre sabático\\Software development\\BasicMiniProjects\\Project1\\Project1.csproj": {}
+    "C:\\Proyectoooooooos\\semestre sabatico\\Software-development\\BasicMiniProjects\\Project_1\\Project1.csproj": {}
   },
   "projects": {
-    "D:\\Semestre sabático\\Software development\\BasicMiniProjects\\Project1\\Project1.csproj": {
+    "C:\\Proyectoooooooos\\semestre sabatico\\Software-development\\BasicMiniProjects\\Project_1\\Project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Semestre sabático\\Software development\\BasicMiniProjects\\Project1\\Project1.csproj",
+        "projectUniqueName": "C:\\Proyectoooooooos\\semestre sabatico\\Software-development\\BasicMiniProjects\\Project_1\\Project1.csproj",
         "projectName": "Project1",
-        "projectPath": "D:\\Semestre sabático\\Software development\\BasicMiniProjects\\Project1\\Project1.csproj",
+        "projectPath": "C:\\Proyectoooooooos\\semestre sabatico\\Software-development\\BasicMiniProjects\\Project_1\\Project1.csproj",
         "packagesPath": "C:\\Users\\meyli\\.nuget\\packages\\",
-        "outputPath": "D:\\Semestre sabático\\Software development\\BasicMiniProjects\\Project1\\obj\\",
+        "outputPath": "C:\\Proyectoooooooos\\semestre sabatico\\Software-development\\BasicMiniProjects\\Project_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\meyli\\AppData\\Roaming\\NuGet\\NuGet.Config"

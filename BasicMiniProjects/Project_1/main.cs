@@ -18,7 +18,9 @@ Console.WriteLine("¿Qué operación deseas realizar? \n A. Suma \n B. Resta \n 
 
 try
 {
+#pragma warning disable CS8600 // Converting null literal or possible null value to non-nullable type.
     operacion = Console.ReadLine();
+#pragma warning restore CS8600 // Converting null literal or possible null value to non-nullable type.
     if (operacion != "A" && operacion != "B" && operacion != "C" && operacion != "D")
     {
         throw new FormatException();
