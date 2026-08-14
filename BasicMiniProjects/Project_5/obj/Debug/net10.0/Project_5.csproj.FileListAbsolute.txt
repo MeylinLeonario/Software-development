@@ -1,0 +1,15 @@
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\bin\Debug\net10.0\Project_5.exe
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\bin\Debug\net10.0\Project_5.deps.json
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\bin\Debug\net10.0\Project_5.runtimeconfig.json
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\bin\Debug\net10.0\Project_5.dll
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\bin\Debug\net10.0\Project_5.pdb
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\obj\Debug\net10.0\Project_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\obj\Debug\net10.0\Project_5.AssemblyInfoInputs.cache
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\obj\Debug\net10.0\Project_5.AssemblyInfo.cs
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\obj\Debug\net10.0\Project_5.csproj.CoreCompileInputs.cache
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\obj\Debug\net10.0\Project_5.sourcelink.json
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\obj\Debug\net10.0\Project_5.dll
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\obj\Debug\net10.0\refint\Project_5.dll
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\obj\Debug\net10.0\Project_5.pdb
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\obj\Debug\net10.0\Project_5.genruntimeconfig.cache
+C:\Proyectoooooooos\semestre sabatico\Software-development\BasicMiniProjects\Project_5\obj\Debug\net10.0\ref\Project_5.dll
