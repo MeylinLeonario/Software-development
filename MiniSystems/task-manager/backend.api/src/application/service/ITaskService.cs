@@ -11,8 +11,8 @@ namespace backend.api.src.application.service
     {
         public Task CreateTask(CreateTaskItemDTO dto);
         public Task<List<TaskItem>> ListTasks();
-        public Task<TaskItem> ReviewTask();
-        public Task EditTask();
-        public Task DeleteTask();
+        public Task<TaskItem> ReviewTask(int id);
+        public Task EditTask(EditTaskItemDTO dto);
+        public Task DeleteTask(DeleteTaskDTO dto);
     }
 }

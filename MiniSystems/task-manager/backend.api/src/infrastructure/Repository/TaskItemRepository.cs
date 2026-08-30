@@ -38,11 +38,10 @@ namespace backend.api.src.infrastructure.Repository
             return await _context.taskItems.ToListAsync();
         }
 
-        public async Task Review(TaskItem taskItem)
+        public async Task<TaskItem?> Review(int id)
         {
-            await _context.taskItems
-                .FirstOrDefaultAsync(x => x.id == taskItem.id);
-            await _context.SaveChangesAsync();
+            return await _context.taskItems
+                .FirstOrDefaultAsync(x => x.id == id);
         }
     }
 }

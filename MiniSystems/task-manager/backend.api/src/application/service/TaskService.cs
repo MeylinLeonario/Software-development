@@ -28,14 +28,33 @@ namespace backend.api.src.application.service
 
         }
 
-        public Task DeleteTask()
+        public async Task DeleteTask(DeleteTaskDTO dto)
         {
-            throw new NotImplementedException();
+            List<TaskItem> tasks = await _taskItemRepository.List();
+            foreach (TaskItem task in tasks)
+            {
+                if (dto.id == task.id)
+                {
+                    await _taskItemRepository.Delete(task);
+                }
+            }
         }
 
-        public Task EditTask()
+        public async Task EditTask(EditTaskItemDTO dto)
         {
-            throw new NotImplementedException();
+            List<TaskItem> tasks = await _taskItemRepository.List();
+            foreach (TaskItem task in tasks)
+            {
+                TaskItem newTask = new TaskItem
+                    (
+                        dto.title,
+                        dto.description,
+                        dto.deadline,
+                        dto.priority
+                    );
+
+                await _taskItemRepository.Edit(newTask);
+            }
         }
 
         public async Task<List<TaskItem>> ListTasks()
@@ -44,9 +63,10 @@ namespace backend.api.src.application.service
             return tasks;
         }
 
-        public Task<TaskItem> ReviewTask()
+        public async Task<TaskItem> ReviewTask(int id)
         {
-            throw new NotImplementedException();
+            TaskItem? task = await _taskItemRepository.Review(id);
+            return task;
         }
     }
 }

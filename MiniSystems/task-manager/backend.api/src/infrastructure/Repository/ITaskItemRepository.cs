@@ -11,7 +11,7 @@ namespace backend.api.src.infrastructure.Repository
     {
         public Task Create(TaskItem taskItem);
         public Task<List<TaskItem>> List();
-        public Task Review(TaskItem taskItem);
+        public Task<TaskItem?> Review(int id);
         public Task Edit(TaskItem taskItem);
         public Task Delete(TaskItem taskItem);
     }
